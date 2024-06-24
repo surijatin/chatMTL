@@ -11,6 +11,11 @@ This script provides a user-friendly interface allowing users to dive deep into 
 - **State-of-the-Art Conversational Model**: Leverages the Llama model for responsive and relevant chat outputs.
 - **CSV Logging**: Records user interactions, feedback, and session details in a CSV format.
 
+## Demo Screen Capture
+![image 6](https://github.com/surijatin/chatMTL/assets/75334549/36815247-54bb-457e-8e4a-39d9a05afa6c)
+
+![image 7](https://github.com/surijatin/chatMTL/assets/75334549/23497038-047a-4668-a227-2d39f838f93a)
+
 ## Installation
 
 1. Ensure you have Python 3.x installed.
